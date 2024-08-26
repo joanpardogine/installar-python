@@ -24,7 +24,7 @@ Un cop finalitzada la descàrrega, feu doble clic a l'instal·lador per iniciar-
 
 Veureu la pantalla de benvinguda de l'instal·lador que descriu què farà l'instal·lador.
 
-> [WARNING!]
+> [!TIP]
 > Assegureu-vos que Afegeix python.exe a PATH estigui marcat a l'instal·lador.Això fa que sigui més fàcil utilitzar Python des de l'indicador d'ordres: només cal que introduïu "python" per començar, en lloc del camí complet a l'executable.
 
 Quan estigueu preparat per ser la instal·lació, podeu fer clic a **Install Now** (***Instal·la ara***).
