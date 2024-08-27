@@ -22,6 +22,8 @@ Un cop finalitzada la descàrrega, feu doble clic a l'instal·lador per iniciar-
 
 Veureu la pantalla de benvinguda de l'instal·lador que descriu què farà l'instal·lador.
 
+<!-- ![alt text](img/03-installacio-pas01-old.png) -->
+
 ![alt text](img/03-installacio-pas01.png)
 
 > [!TIP]
@@ -29,7 +31,8 @@ Veureu la pantalla de benvinguda de l'instal·lador que descriu què farà l'ins
 
 Quan estigueu preparat per ser la instal·lació, podeu fer clic a **Install Now** (***Instal·la ara***).
 
-![alt text](img/04-installacio-pas02.png)
+![alt text](img/04-installacio-pas02-old.png)
+
 
 La instal·lació continuarà amb normalitat, instal·lant totes les biblioteques necessàries (incloent **`Tcl/Tk`** per a **`Tkinter`**). Un cop completat, podeu sortir de l'instal·lador.
 
