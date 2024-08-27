@@ -27,16 +27,16 @@ Veureu la pantalla de benvinguda de l'instal·lador que descriu què farà l'ins
 ![alt text](img/03-installacio-pas01.png)
 
 > [!TIP]
-> Assegureu-vos que **`Add python.exe to PATH`** estigui marcat a l'instal·lador. Aquesta opció fa que sigui més fàcil utilitzar **Python** des de l'indicador d'ordres: només cal que introduïu "`python`" per començar, en lloc del camí complet a l'executable.
+> Assegureu-vos que **`Add python.exe to PATH`** estigui marcat a l'instal·lador. Aquesta opció fa que sigui més fàcil utilitzar **Python** des de la línia de comandes: només cal que introduïu "`python`" per començar, en lloc del camí complet a l'executable.
 
 Quan estigueu preparat per ser la instal·lació, podeu fer clic a **Install Now** (***Instal·la ara***).
 
-![alt text](img/04-installacio-pas02-old.png)
+![alt text](img/04-installacio-pas02.png)
 
 
 La instal·lació continuarà amb normalitat, instal·lant totes les biblioteques necessàries (incloent **`Tcl/Tk`** per a **`Tkinter`**). Un cop completat, podeu sortir de l'instal·lador.
 
-Obriu un indicador d'ordres i inicieu **Python** introduint python. Això iniciarà el `**Python** REPL`, on podeu introduir codi **Python** interactiu.
+Obriu la línia de comandes i inicieu **Python** introduint **`python`**. Això iniciarà el **Python REPL**, on podeu introduir codi **Python** interactiu.
 
 ![alt text](img/05-check-installacio-ok.png)
 
